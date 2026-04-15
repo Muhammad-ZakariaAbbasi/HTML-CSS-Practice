@@ -1,0 +1,24 @@
+/* @media only screen and (min-width:320px) and (max-width:480px){
+  .leftHeader{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .text{
+    font-size: 20px;
+border-left: none;
+  }
+  .text p{
+    text-align: center;
+  }
+  .header{
+ border-top: none;
+ border-bottom: none;
+  }
+  .searchbar{
+border-left: none;
+  flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+} */

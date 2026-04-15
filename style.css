@@ -1,0 +1,460 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    
+border-top: 1px solid rgb(238, 238, 238);
+border-bottom: 1px solid rgb(238, 238, 238);
+    width: 100%;
+    height: 80px;
+  background-color: white;
+display: flex;
+position: fixed;
+}
+.leftHeader{
+    display: flex;
+    width: 40%;
+    
+}
+.logo{
+    
+padding: 10px 30px;
+
+}
+.text{
+border-left:  1px solid rgb(238, 238, 238);       
+font-size: 15px;
+padding: 10px 30px;
+margin-top: 10px;
+}
+.searchbar{
+  border-left:  1px solid rgb(238, 238, 238);    
+padding: 30px 50px;
+
+
+}
+.rightHeader{
+  border-left:  1px solid rgb(238, 238, 238);  
+  padding: 15px 30px;  
+
+}
+.btnCart{
+padding: 15px;
+
+}
+.login{
+    text-decoration: none;
+  margin-left: 110px;
+}
+.btnCart{
+    margin-left: 65px;
+}
+.belowHeader{
+  background-image: url(Frame-1437256605-2-2.jpg
+  );
+   background-size: cover;
+   background-position: center;
+width: 90%;
+margin-left: 70px;
+margin-top: 7px;
+height:   271.762px;
+
+      
+}
+.feature_items{
+
+  width:90% ;
+  margin-left: 70px;
+margin-top: 7px;
+height:200.762px;
+display: flex;
+
+}
+.first_item{
+     width: 335.4px;
+         height: 195px;
+background-image: url(pharmacy-WEB.jpg
+  );
+            background-size: cover;
+   background-position: center;
+}
+.second_item{
+     width: 335.4px;
+         height: 195px;
+background-image: url(pet_crystal_WEB-1.png
+  );
+            background-size: cover;
+   background-position: center;
+   margin-left: 20px;
+   
+}
+.third_item{
+     width: 335.4px;
+         height: 195px;
+background-image: url(baby_crystal_WEB-1.png
+  );
+            background-size: cover;
+   background-position: center;
+   margin-left: 20px;
+   
+}
+.feature_categories_one{
+         width: 90%;
+  
+    height:   220.762px;
+ margin-left: 60px;
+margin-top: 7px;
+display: flex;
+
+}
+
+.first-cate{
+    background-image: url(paan-corner_web.jpg
+  );
+   background-size: cover;
+   background-position: center;
+      width: 128px;
+          height: 188.235px;
+          
+
+margin-left: 20px;
+
+}
+.second-cate{
+   background-image: url(Slice-2_10.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+  
+
+margin-left: 20px;
+}
+.third-cate{
+   background-image: url(Slice-3_9.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+        
+
+margin-left: 20px;
+}
+.fourth-cate{
+ background-image: url(Slice-4_9.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+      
+
+margin-left: 20px;
+}
+.fifth-cate{
+   background-image: url(Slice-5_4.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+
+
+margin-left: 20px;
+}
+.sixth-cate{
+
+   background-image: url(Slice-6_5.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+      
+
+margin-left: 20px;
+}
+.seventh-cate{
+   background-image: url(Slice-7-1_0.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+      
+
+margin-left: 20px;
+}
+.eighth-cate{
+
+   background-image: url(Slice-8_4.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+         
+
+margin-left: 20px;
+}
+.ninth-cate{
+   background-image: url(Slice-7-1_0.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+         
+
+margin-left: 20px;
+}
+.tenth-cate{
+   background-image: url(Slice-10.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+     
+
+margin-left: 20px;
+}
+.feature_categories_two{
+         width: 90%;
+       
+    height:   220.762px;
+   height:   220.762px;
+ margin-left: 60px;
+margin-top: 7px;
+display: flex;
+}
+.twos_first-cate{
+   background-image: url(Slice-11.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+          
+
+margin-left: 20px;
+}
+.twos_second-cate{
+   background-image: url(Slice-12.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+       
+
+margin-left: 20px;
+}
+.twos_third-cate{
+   background-image: url(Slice-13.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+          
+
+margin-left: 20px;
+}
+.twos_fourth-cate{
+   background-image: url(Slice-14.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+          
+
+margin-left: 20px;
+}
+.twos_fifth-cate{
+   background-image: url(Slice-15.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+    
+
+margin-left: 20px;
+}
+.twos_sixth-cate{
+   background-image: url(Slice-16.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+         
+
+margin-left: 20px;
+}
+.twos_seventh-cate{
+   background-image: url(Slice-17.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+      
+
+margin-left: 20px;
+}
+.twos_eighth-cate{
+   background-image: url(Slice-18.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+         
+
+margin-left: 20px;
+}
+.twos_ninth-cate{
+   background-image: url(Slice-19.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+        
+
+margin-left: 20px;
+}
+.twos_tenth-cate{
+   background-image: url(Slice-20.png
+  );
+   background-size: cover;
+   background-position: center;
+   width: 128px;
+          height: 188.235px;
+         
+
+margin-left: 20px;
+}
+
+.Mouth-fresheners{
+        width: 90%;
+ 
+    height:   220.762px;
+ margin-left: 60px;
+margin-top: 7px;
+display: flex;
+}
+.freshner-one{
+   background-image: url(/42adad2f-205f-4af1-b787-b8f3484bdb4e.png
+  );
+   background-size: cover;
+   background-position: center;
+      width: 150px;
+          height: 200px;
+         
+
+margin-left: 20px;
+}
+.freshner-two{
+   background-image: url(/4217f86f-cafb-44e7-8afb-6475fd3e64f1.png
+  );
+   background-size: cover;
+   background-position: center;
+      width: 150px;
+          height: 200px;
+         
+
+margin-left: 50px;
+}
+.freshner-three{
+   background-image: url(/b417aadf-8504-4db2-9560-469a80461509.png
+  );
+   background-size: cover;
+   background-position: center;
+      width: 150px;
+          height: 200px;
+         
+
+margin-left: 50px;
+}
+.freshner-four{
+   background-image: url(/b7159ab5-6b7c-4cf6-ad64-806789006144.png
+  );
+   background-size: cover;
+   background-position: center;
+      width: 150px;
+          height: 200px;
+         
+
+margin-left: 50px;
+}
+.freshner-five{
+   background-image: url(/de6cc2fb-de87-4112-a89e-cf7c263e2e3e.png
+  );
+   background-size: cover;
+   background-position: center;
+      width: 150px;
+          height: 200px;
+         
+
+margin-left: 50px;
+}
+.freshner-six{
+   background-image: url(/f2e268ac-d551-40ce-a708-8f1848d9d858.png
+  );
+  
+   background-size: cover;
+   background-position: center;
+      width: 150px;
+          height: 200px;
+         
+
+margin-left: 50px;
+}
+.footer{
+   width: 90%;
+   background-color: white;
+   height: 400px;
+
+ margin-left: 60px;
+margin-top: 7px;
+display: flex;
+
+}
+.Useful-Links{
+   display: flex;
+}
+.footer ul{
+list-style: none;
+
+ margin-left: 60px;
+margin-top: 7px;
+
+}
+.footer ul a{
+   text-decoration: none;
+   color: black;
+}
+.footer-category{
+margin-left: 150px;
+}
+.Copy-rights{
+   width: 90%;
+   height: 20px;
+
+   margin-left: 70px;
+margin-top: 7px;
+}
+
+
+
+
+
