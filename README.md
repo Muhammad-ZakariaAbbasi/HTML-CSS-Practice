@@ -1,2 +1,2 @@
-# HTML-CSS-Practice
+# HTML-CSS-TailwindCSS-Practice
 In this project ,I practice basic html and Css concepts..its just a static page and Project is ecommerce website Blinkit Clone....
